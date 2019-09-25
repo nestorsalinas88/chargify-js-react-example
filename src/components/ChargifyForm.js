@@ -55,6 +55,8 @@ class ChargifyForm extends Component {
             firstName: {
                 // selector, where the iframe with this field will be included
                 // on your page
+
+
                 selector: '#chargify1',
 
                 // ot overrides default label

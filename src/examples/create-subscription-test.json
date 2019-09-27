@@ -1,0 +1,34 @@
+{
+  "subscription": {
+    "product_handle": "gym-membership",
+    "customer_attributes": {
+      "first_name": "SOMEOTHER TEST",
+      "last_name": "Some Dude",
+      "email": "dude@example.com",
+      "zip": "02120",
+      "state": "MA",
+      "reference": "BUHAHA",
+      "phone": "(617) 111 - 0000",
+      "organization": "Acme",
+      "country": "US",
+      "city": "Boston",
+      "address_2": null,
+      "address": "123 Mass Ave."
+    },
+    "credit_card_attributes": {
+      "first_name": "Example",
+      "last_name": "Customer",
+      "full_number": "4111111111111111",
+      "expiration_month": "10",
+      "expiration_year": "2020",
+      "card_type": "visa",
+      "billing_zip": "02120",
+      "billing_state": "MA",
+      "billing_country": "US",
+      "billing_city": "Boston",
+      "billing_address_2": null,
+      "billing_address": "123 Mass Ave."
+
+    }
+  }
+}

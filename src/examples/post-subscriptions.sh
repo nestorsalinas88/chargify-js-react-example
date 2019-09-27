@@ -61,6 +61,8 @@
 
 
 
+
+
 # creating a subscription with bad card data
 # I have settings preconfigured on my products that require billing and shipping addresses.
 # ERROR LOG: {"errors":["Shipping Address: cannot be blank.","Shipping City: cannot be blank.","Shipping State: cannot be blank.", "Shipping Country: cannot be blank.",

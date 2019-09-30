@@ -1,9 +1,10 @@
 # more examples with curl
 # Testing product creation
 # https://docs.chargify.com/api-products
+# family id 1371281
 
 curl --request POST \
- --url https://globo-gym.chargify.com/product_families/1371281/products.json \
+ --url https://globo-gym.chargify.com/product_families/{family-id}/products.json \
 --header 'authorization: Basic {api-encoded-key}' \
 --header 'Accept:application/json' \
 --header 'Content-Type:application/json' \
